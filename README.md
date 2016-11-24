@@ -6,7 +6,9 @@
 
 ### Instrucciones de instalacion:
 
-1. Cree una bd llamada roadTrip en su Motor MySQL, e importe el archivo roadTrip.sql
+0. Descargue este reopositorio (y descomprima las carpetas core y site).
+
+1. Cree una bd llamada roadTrip en su Motor MySQL, e importe el archivo roadTrip.sql.
 
 2. Copie todo el repositorio dentro una carpeta llamada roadTrip dentro de su localhost.
 
@@ -18,7 +20,7 @@
 
 5. se encuentra Habilitado el usuario registrado:
  * Username: demo@roadtrip.com
- * Password: demo
+ * Password: demo.
 
 
 6. Enjoy !!!
